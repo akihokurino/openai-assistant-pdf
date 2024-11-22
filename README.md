@@ -1,0 +1,4 @@
+## Used, Dependency
+
+- python
+- openai
